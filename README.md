@@ -7,6 +7,10 @@
 This is a PowerBI Project on **Google Playstore Analysis** which was scrapped from Google Playstore.
 The project is to analyse and drive app-making businesses to success and draw actionable insights for developers to work on and capture the Android market!.
 
+## Cleaning
+
+The data was scrapped from Google Playstore where it comes with some errors,duplicates and errors within names. Every column was looked into by confirming the data types,errors,duplicates and replacing them if necessary of the two tables and making them okay for our analysis.
+
 ## Problem Statement
 
 1. What are the update trends of apps?
